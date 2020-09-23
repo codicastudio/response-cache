@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/responsecache",
+    "name": "codica-studio/responsecache",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/responsecache",
+    "homepage": "https://github.com/codica-studio/responsecache",
     "license": "MIT",
     "authors": [
         {
